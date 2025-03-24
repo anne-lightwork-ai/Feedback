@@ -19,7 +19,8 @@ I noticed that there are no unit tests written in the project.  It might be help
 ## Inconsistent Naming
 
 I noticed that file naming is inconsistent— some files use kebab-case while others use camel case.
-![inconsistent_naming](<Screenshot 2025-03-24 104712.png>)
+![Screenshot 2025-03-24 104712](https://github.com/user-attachments/assets/32eb277f-e2d6-4c36-ab48-af89bdede608)
+
 This might create confusion to devs who are contributing to the project first time. Maybe mentioning a particular case which we should adhere might help. We can gradually update our naming conventions later.
 
 ## Unused Imports
@@ -43,7 +44,8 @@ I noticed that some services define a CustomHttpException class named as `custom
 ## Comments
 
 Why a particular code is commented might be helpful to know. This will avoid us of any confusion whether to keep the commented code or uncomment it
-![comments](image-1.png)
+![image-1](https://github.com/user-attachments/assets/978c942d-649c-4f6c-968f-bda3d3761e64)
+
 
 ## Usage of `any`
 
